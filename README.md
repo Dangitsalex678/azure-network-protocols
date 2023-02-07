@@ -53,11 +53,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/Vb09xdp.png" height="80%" width="80%" alt="Creating Virtual Machines"/>
+<img src="https://i.imgur.com/x6sE9Cb.png" height="80%" width="80%" alt="Connect to Virtual Machine"/>
 </p>
 <p>
-<b>- Search up Network Watcher and open the corresponding network watcher and observe the Topology
-</p>- 
+<b>- Copy the Public IP Address of VM1 and use Remote Desktop to remote into the Virtual Machine
+</p>
+<br />
+  
+<p>
+<img src="https://i.imgur.com/Vb09xdp.png" height="80%" width="80%" alt="Downloading Wireshark"/>
+</p>
+<p>
+<b>- Open the Internet Browser and install <a href="https://drive.google.com/drive/folders/1UsQgjbyDkJKAs8LiZF3UUasNzymwAZSp?usp=share_link">WireShark 
 </p>
 <br />
 
