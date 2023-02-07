@@ -64,7 +64,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/Vb09xdp.png" height="80%" width="80%" alt="Downloading Wireshark"/>
 </p>
 <p>
-<b>- Open the Internet Browser and install <a href="https://drive.google.com/drive/folders/1UsQgjbyDkJKAs8LiZF3UUasNzymwAZSp?usp=share_link">WireShark 
+<b>- Open the Internet Browser and install <a href="https://2.na.dl.wireshark.org/win64/Wireshark-win64-4.0.3.exe">WireShark 
 </p>
 <br />
 
